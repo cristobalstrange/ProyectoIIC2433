@@ -1,0 +1,11 @@
+habitaciones,baños,a_construida,a_total,estacionamientos,precio,comuna
+3,2,65.0,67.0,1,85000000.0,Maipú
+5,3,70.0,120.0,1,155000000.0,San Bernardo
+3,3,104.0,187.0,1,178032400.0,Buin
+3,1,89.0,95.0,171579200.0,Providencia,nan
+4,2,240.0,270.0,3,239000000.0,Santiago
+5,3,138.0,208.0,3,453622000.0,Providencia
+4,2,150.0,200.0,1,318864000.0,Ñuñoa
+3,2,65.0,71.0,1,94000000.0,Puente Alto
+4,2,380.6,380.6,529542000.0,Santiago,nan
+2,1,60.0,100.0,1,78000000.0,Buin
